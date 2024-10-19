@@ -3,7 +3,7 @@
 Página de login do sistema EduCenter, projeto de educação.
 
 [![HTML5](https://img.shields.io/badge/HTML5-orange.svg?logo=html5)](https://html.com/)
-[![CSS3](https://img.shields.io/badge/CSS3-blue.svg?logo=css3)](https://www.w3.org/Style/CSS/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-white.svg?logo=bootstrap)](https://getbootstrap.com/)
+[![CSS3](https://img.shields.io/badge/CSS3-blue.svg?logo=css3)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 --------------------
